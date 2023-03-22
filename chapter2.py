@@ -7,4 +7,3 @@ c=a
 print(f'{sys.getrefcount(a)}')
 c='school'
 print(f'{sys.getrefcount(a)}')
-

@@ -1,4 +1,4 @@
-while True
+while True:
     menu = int(input("1) fahrenheit to celsius   2) celsius to fahrenheit   3) exit  : "))
 
     if menu == 1:
